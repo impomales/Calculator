@@ -1,0 +1,43 @@
+body {
+  background-color: #666;
+}
+#calculator {
+  border-style: solid;
+  background-color: #ccc;
+  height: 550px;
+}
+#calculator h1 {
+  text-align: center;
+}
+#screen {
+  text-align: right;
+  height: 50px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 35px;
+  color: #151e1e;
+  border-style: solid;
+  background-color: #85adad;
+}
+.button {
+  border-style: solid;
+  background-color: #939ddb;
+  text-align: center;
+  color: #ddd;
+}
+#add,
+#subtract,
+#multiply,
+#divide,
+#percent {
+  background-color: #436389;
+}
+#allclear,
+#clear {
+  background-color: #cc2900;
+}
+#add {
+  height: 138px;
+}
+#footer {
+  text-align: center;
+}
